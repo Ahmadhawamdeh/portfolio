@@ -1811,9 +1811,10 @@
       }
   
       #main > section.one {
-        background-color: #81918E;
-        background-image: url("../../images/machu-picchu.jpg");
-      }
+        background-color: rgb(17, 1, 11);
+        position: relative;
+        z-index: 1;
+    }
   
       #main > section.two {
         background-color: #f5fafa;
@@ -1939,9 +1940,10 @@
       }
   
       #main > section.one {
-        background-color: #A891FF !important;
-        background-image: url("../../images/machu-picchu.jpg");
-      }
+        background-color: rgb(17, 1, 11);
+        position: relative;
+        z-index: 1;
+    }
   
       #main > section.two {
         background-color: #E79FFF !important;
